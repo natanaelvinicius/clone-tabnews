@@ -1,2 +1,2 @@
 # clone-tabnews
-clonando o tabnews no curso.dev 
+clonando o tabnews no curso.dev
