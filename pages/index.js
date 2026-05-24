@@ -3,3 +3,10 @@ function home() {
 }
 
 export default home;
+
+function home () {
+    return (
+        <video src="/.video.mp4" controls/>
+
+    );
+}
