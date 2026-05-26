@@ -3,11 +3,7 @@ export default function Home() {
     <>
       <h1>você é carregado no valorant!</h1>
 
-      <video
-        src="/video.mp4"
-        controls
-        width="600"
-      />
+      <video src="/video.mp4" controls width="600" />
     </>
   );
 }
